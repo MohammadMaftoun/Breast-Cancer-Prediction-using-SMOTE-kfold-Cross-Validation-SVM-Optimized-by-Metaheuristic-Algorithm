@@ -1,5 +1,4 @@
-# 🩺Breast Cancer Prediction by Optimization of support vector machine through the use of metaheuristic algorithm
-
+# 🩺Breast Cancer Prediction by Optimal SVM model
 ![BC](https://cancer-data.ecrc.ed.ac.uk/wp-content/uploads/2020/06/icon-imagery.png)
 
 This project is aimed at creating a predictive model for breast cancer diagnosis using the sklearn breast cancer dataset. The dataset is balanced using Synthetic Minority Over-sampling Technique (SMOTE), and the model's performance is cross-validated using k-fold cross-validation. The Support Vector Machine (SVM) model is optimized using a Metaheuristic Algorithm and compared to a genetic algorithm using the TPOT library.
