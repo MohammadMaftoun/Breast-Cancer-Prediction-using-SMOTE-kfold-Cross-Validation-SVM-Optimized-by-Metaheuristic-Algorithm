@@ -1,4 +1,4 @@
-# 🩺Breast Cancer Prediction using SVM optimized by a Metaheuristic Algorithm
+# 🩺Breast Cancer Prediction by Optimization of support vector machine through the use of metaheuristic algorithm
 
 ![BC](https://cancer-data.ecrc.ed.ac.uk/wp-content/uploads/2020/06/icon-imagery.png)
 
